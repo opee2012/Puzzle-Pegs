@@ -1,4 +1,4 @@
-// In collaboration with Hannah, Mei-Rose, and Phoenix.
+// In collaboration with Hannah and Phoenix.
 
 import java.util.*;
 
